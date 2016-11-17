@@ -1,0 +1,8 @@
+Read Me:
+
+In order to move the character forward, press W. If you the character to move left or right, while pressing W, press A or D respectively.
+If you want to exit the scene, click Alt+F4 :)
+
+
+Monica Ashraf
+Fady Maged
